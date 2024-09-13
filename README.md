@@ -1,6 +1,10 @@
 # lesson34_snackbar
 
-A new Flutter project.
+A new Flutter p
+
+https://github.com/user-attachments/assets/3e417446-2905-4e2e-81ef-958c37466b6a
+
+roject.
 
 ## Getting Started
 
